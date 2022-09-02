@@ -22,6 +22,8 @@
 			<td>작성일</td>
 			<td>${dto.date }</td>
 		</tr>
+		
+		
 		<tr>
 			<td>제목</td>
 			<td colspan="3">${dto.subject }</td>
